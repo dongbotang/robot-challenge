@@ -1,6 +1,6 @@
 # robot-challenge
 ## RobotChallengeApplication
-This is a <i>Java Application</i> built with <i>Maven</i> and implemented in <i>InteliJ</i> under Windows 10 operating system. The application can be run the main method in <i><b>RobotChallengeApplication<b></i>.
+This is a <i>Java Application</i> built with <i>Maven</i> and implemented in <i>InteliJ</i> under Windows 10 operating system. The application can be run the main method in <i><b>RobotChallengeApplication<b></i>. It is developed base on JDK 18.
 
 PLEASE DO LET ME KNOW IF THE APPLICATION CANNOT RUN IN YOU ENVIRONMENT.
 
