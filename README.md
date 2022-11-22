@@ -1,4 +1,4 @@
-# robot-challenge
+# Sandra's Robot Challenge
 ## RobotChallengeApplication
 This is a <i>Java Application</i> built with <i>Maven</i> and implemented in <i>InteliJ</i> under Windows 10 operating system. The application can be run the main method in <i><b>RobotChallengeApplication<b></i>. It is developed base on JDK 18.
 
@@ -14,8 +14,8 @@ The table size which robots are running on can be configured in <i>config.proper
 The log file is generated when the application or unit tests starts and it is configured as debug mode in simplelogger.properties
 
 ## Supported Commands (Case Insensitive) in Application Console
-place<br>
-robot<br>
+place 1,1,north<br>
+robot 1<br>
 move<br>
 report<br>
 north<br>
